@@ -1,7 +1,16 @@
 def nyc_pigeon_organizer(data)
   # write your code here!
   pigeon_list = {
-  
+  "Luca" => {
+    :color => ["brown"],
+    :gender => ["male"],
+    :lives => ["Library"]
+  },
+  "Lola" => {
+    :color => ["black"],
+    :gender => ["female"],
+    :lives => ["Central Park"]
+  },
   "Lucky" => {
     :color => ["purple"],
     :gender => ["male"],
@@ -27,15 +36,6 @@ def nyc_pigeon_organizer(data)
     :gender => ["male"],
     :lives => ["Central Park"]
   },
-  "Luca" => {
-    :color => ["brown"],
-    :gender => ["male"],
-    :lives => ["Library"]
-  },
-  "Lola" => {
-    :color => ["black"],
-    :gender => ["female"],
-    :lives => ["Central Park"]
-  }
+  
 }
 end
