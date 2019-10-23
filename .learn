@@ -6,3 +6,16 @@ tags:
 languages:
   - ruby
 resources: 1
+
+
+
+"Theo" => {
+    :color => ["purple", "grey"],
+    :gender => ["male"],
+    :lives => ["Subway"]
+  },
+  "Peter Jr." => {
+    :color => ["purple", "grey"],
+    :gender => ["male"],
+    :lives => ["Library"]
+  },
